@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: Resume Image CI
 
 on:
   push:
